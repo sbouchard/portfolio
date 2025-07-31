@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+bg-purple {
+  background-color: #793CE3;
+}
+
+bg-blue {
+  background-color: #51A8E4;
+}
+
+.bg-gray-200 {
+  background-color: #63D6B1;
+}
