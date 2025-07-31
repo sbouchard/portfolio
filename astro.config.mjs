@@ -8,5 +8,6 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   site: 'https:/sbouchard.github.io'
+  
 });
 
